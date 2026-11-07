@@ -50,7 +50,10 @@ Used by:
 */
 .logo,
 .Service-logo,
-.Skill-logo {
+.Skill-logo,
+.Education-logo,
+.Experrience-logo,
+.Contact-logo {
   font-size: 5rem;
   font-family: "Lucida Consolas";
   font-variant: small-caps;
